@@ -1,3 +1,3 @@
-# Various-Topics
+# Data-Modelling
 
-Compilation of my work concerning different subjects/units
+Compilation of my work related to data modelling.
